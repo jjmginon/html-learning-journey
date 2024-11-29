@@ -51,3 +51,22 @@ caption {
     margin-bottom: 0.5em;
     font-weight: bold;
 }
+
+/* Form Styles */
+form {
+    margin: 1em 0;
+    padding: 1em;
+    background-color: #333;
+    color: #E0E0E0;
+}
+
+input,
+select,
+textarea,
+button {
+    margin-bottom: 1em;
+    padding: 0.5em;
+    border: 1px solid #D3D3D3;
+    background-color: #444;
+    color: #E0E0E0;
+}
