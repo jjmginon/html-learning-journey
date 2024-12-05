@@ -1,23 +1,25 @@
 # HTML Learning Journey - My First Web Page
 
-## Description
-
-A personalized website developed as part of Dave Gray's HTML5 Course for Beginners. This project showcases the knowledge gained through chapters 1 to 9 of the course and includes personalized content.
+Welcome to this project designed to kickstart the journey towards learning web development. Begin with HTML basics before venturing into CSS or JavaScript, as HTML serves as the foundation and starting point for everything else in web development.
 
 ## Table of Contents
 
 - [HTML Learning Journey - My First Web Page](#html-learning-journey---my-first-web-page)
-  - [Description](#description)
   - [Table of Contents](#table-of-contents)
+  - [Description](#description)
   - [Features](#features)
   - [Usage](#usage)
   - [Custom CSS](#custom-css)
   - [License](#license)
   - [Acknowledgements](#acknowledgements)
 
+## Description
+
+A personalized website developed as part of Dave Gray's HTML Tutorials for Beginners. This project showcases the knowledge gained through chapters 1 to 9 of the course and includes personalized content.
+
 ## Features
 
-- Personalized content reflecting my journey through the HTML5 course.
+- Personalized content reflecting my journey through the HTML tutorials.
 - Interactive elements (e.g., forms, buttons).
 - Responsive design for mobile and desktop views.
 - Detailed schedule with semantic HTML elements.
@@ -36,7 +38,7 @@ Explore the sections to learn about:
 
 ## Custom CSS
 
-The project employs a minimalist CSS approach to enhance the visual presentation and readability. Key features include:
+The project employs a minimalist CSS approach to enhance visual presentation and readability. Key features include:
 
 - **Typography:** Increased base font size and line height for better readability.
 - **Color Scheme:** Dark background with light text to reduce eye strain.
@@ -49,6 +51,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgements
 
-- Special thanks to [Dave Gray](https://github.com/gitdagray) for the HTML5 course.
+- Special thanks to [Dave Gray](https://github.com/gitdagray) for the HTML tutorials.
 - Check out [Dave Gray's YouTube Channel](https://www.youtube.com/c/DaveGrayTeachesCode) for more tutorials.
 - Visit [Dave Gray Teaches Code](https://www.davegray.co/) for additional resources.
